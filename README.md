@@ -15,8 +15,8 @@ AA関連のツールをよく作っています。
 - [AAHub Font](https://fonts.aahub.org)
 AAのフォントを集めたサイト
 
-- [場末のやる夫板](https://bbs.aahub.org)
-やる夫スレ投稿に特化したリアルタイム掲示板＆まとめサイト
+- [Kaozo](https://kaozo.aahub.org)
+コピー＆ペーストですぐにAAを保存＆共有サイト
 
 - [ASCII.art](https://ASCII.art)
 アスキーアート情報をアーカイブする
